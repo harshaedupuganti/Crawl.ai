@@ -831,5 +831,3 @@ This project establishes a foundation for the next generation of information int
 The Advanced AI Website Chatbot is not just a tool—it's a glimpse into the future of human-computer interaction, where the boundaries between asking questions and finding answers dissolve into seamless, intelligent conversation.
 
 ---
-
-*This documentation represents a comprehensive technical and strategic overview of the Advanced AI Website Chatbot project. For implementation details, API references, and deployment guides, please refer to the accompanying technical documentation and README files.*
